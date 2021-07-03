@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    margin: 20px;
+    background-color: palevioletred;
+    font-family: sans-serif;
+    display: block;
+}
+.login{
+    text-align: center;
+    color:white;
+}
+.name{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+}
+.e{
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+}
+.s{
+    color:white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+}
+.botao{
+    text-align:center;
+    color: white;
+    margin: 5px;
+    right: 5px;
+    left: 15px;
+    border-radius: 10px;
+    background: none;
+    padding: 15px 30px;
+    background-color:violet;
+
+}
+.form{
+    background-color:black;
+    padding: 40px;
+    border-radius: 8px;
+    max-width: 400px;
+    margin: auto;
+}
+input[type='text'],
+input[type='email'],
+input[type='password']{
+    background: none;
+    border: none;
+    border-bottom: 2px solid rgb(165, 7, 60);
+    margin-bottom: 25px;
+    outline: none;
+    color: white;
+
+}
+

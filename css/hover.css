@@ -1,0 +1,20 @@
+.login:hover{
+    color: red;
+}
+.bt{
+    transition: all 0.3s ease-in-out;
+}
+
+.bt:hover{
+    background-color: salmon;
+    
+
+}
+.botao{
+    transition: all 0.3s ease-in-out;
+}
+
+.botao:hover{
+    background-color: slategrey;
+    color: black;
+}

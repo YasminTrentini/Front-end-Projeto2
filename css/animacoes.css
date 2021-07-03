@@ -1,0 +1,19 @@
+.form{
+    animation-name: animation;
+    animation-duration: 2s;
+}
+
+@keyframes animation{
+    from{
+        margin-right: -50%;
+    
+    }
+
+    to{
+        margin-right: 40%;
+        
+    }
+}
+ .form:hover{
+     transform: rotate(50deg);
+ }
